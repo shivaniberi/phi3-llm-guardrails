@@ -42,7 +42,7 @@ User Prompt
    ↓
 Input Guardrails (toxicity, safety, jailbreak checks)
    ↓
-Optional RAG Retrieval (context grounding)
+RAG Retrieval (context grounding)
    ↓
 Phi-3-Mini Model (response generation)
    ↓
