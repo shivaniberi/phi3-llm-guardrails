@@ -10,7 +10,7 @@ It adds safety, reliability, and factual accuracy checks around model inputs and
 
 ---
 
-## Overview
+## Overview.
 
 The guardrail system adds multiple layers of protection to the LLM pipeline:
 
