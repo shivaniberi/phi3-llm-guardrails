@@ -1,8 +1,8 @@
 # Guardrail System for Phi-3-Mini LLM
 A robust LLM guardrail framework built on Phi-3 Mini. This project implements real-time prompt classification, harmful content blocking, safe-mode output generation. Includes red-teaming datasets, safety classifiers, vector-DB/RAG optional integration, and comparison between raw and guardrail-protected Phi-3 outputs.
 
-This project provides a complete guardrail framework for the **Phi-3-Mini** language model.
-It adds safety, reliability, and factual accuracy checks around model inputs and outputs, ensuring **trustworthy, controlled, and production-ready LLM behavior**.
+This project provides a complete guardrail framework for the Phi-3-Mini language model.
+It adds safety, reliability, and factual accuracy checks around model inputs and outputs, ensuring trustworthy, controlled, and production-ready LLM behavior.
 
 <div align="center"> 
 <img width="593" height="383" alt="architecture" src="https://github.com/user-attachments/assets/3059c48d-7967-47c4-b55e-30dae6550604" />
